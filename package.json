@@ -1,0 +1,12 @@
+{
+  "name": "posthtml-include-whatever",
+  "version": "0.0.1",
+  "description": "A generic <include> processor for posthtml",
+  "main": "index.js",
+  "repository": "https://github.com/billiam/posthtml-include-whatever",
+  "author": "Billiam",
+  "license": "MIT",
+  "dependencies": {
+    "posthtml-parser": "^0.12.0"
+    }
+}
